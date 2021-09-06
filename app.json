@@ -1,0 +1,17 @@
+{
+  "name": "YgoPrices Telegram Bot",
+  "description": "YgoPrices Telegram Bot",
+  "keywords": [
+    "ygoprices",
+    "go",
+    "bot"
+  ],
+  "website": "http://github.com/Pr3d4dor/telegram-ygoprices-bot",
+  "repository": "http://github.com/Pr3d4dor/telegram-ygoprices-bot",
+  "env": {
+    "TELEGRAM_BOT_API_TOKEN": {
+      "description": "The telegram bot api token",
+      "required": true
+    }
+  }
+}
